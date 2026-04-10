@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interior Design Company KL | Premium Design Services</title>
+    <meta name="description" content="Full-service interior design for homes and offices in Kuala Lumpur & Selangor. Carpentry, construction, smart home solutions.">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h2>Interior Design Co.</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <a href="https://wa.me/601121815521" class="btn-primary">Get Quote</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Transform Your Space Into Your Dream Home</h1>
+                <p>Full-service interior design for homes and offices in Kuala Lumpur & Selangor. From concept to completion, we bring your vision to life.</p>
+                <div class="hero-buttons">
+                    <a href="https://wa.me/601121815521" class="btn-primary">Start Your Project</a>
+                    <a href="#services" class="btn-secondary">Explore Services</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Services</h2>
+                <p>Comprehensive design solutions for every space</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🏠</div>
+                    <h3>Interior Design</h3>
+                    <p>Complete interior design for residential and commercial spaces. We create beautiful, functional environments tailored to your lifestyle.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🪚</div>
+                    <h3>Carpentry & Cabinets</h3>
+                    <p>Custom kitchen cabinets, wardrobes, and built-in furniture. Quality craftsmanship with attention to every detail.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🔨</div>
+                    <h3>Construction Works</h3>
+                    <p>Renovation, remodeling, partition, ceiling, and flooring. Full construction support for your design vision.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🏡</div>
+                    <h3>Smart Home</h3>
+                    <p>Home automation, smart lighting, security systems, and voice control. Modern technology for modern living.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🛋️</div>
+                    <h3>Furniture Sourcing</h3>
+                    <p>Curated furniture and building material sourcing. We find the perfect pieces to complete your space.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>Why Choose Us</h2>
+                    <p>Based in Kuala Lumpur & Selangor, we specialize in creating stunning interiors for homes and offices. Our team combines creativity with practical expertise to deliver spaces that are both beautiful and functional.</p>
+                    <ul class="about-features">
+                        <li>✓ Full-service design from concept to completion</li>
+                        <li>✓ Experienced team of designers and craftsmen</li>
+                        <li>✓ Quality materials and workmanship</li>
+                        <li>✓ Transparent pricing and timelines</li>
+                        <li>✓ Serving KL & Selangor area</li>
+                    </ul>
+                </div>
+                <div class="about-stats">
+                    <div class="stat">
+                        <span class="stat-number">100%</span>
+                        <span class="stat-label">Client Satisfaction</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">24/7</span>
+                        <span class="stat-label">Support Available</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta">
+        <div class="container">
+            <h2>Ready to Transform Your Space?</h2>
+            <p>Get in touch today for a free consultation. We're here to help bring your dream space to life.</p>
+            <div class="cta-buttons">
+                <a href="https://wa.me/601121815521" class="btn-primary">WhatsApp Us</a>
+                <a href="https://t.me/MydesignassistantAli_bot" class="btn-secondary">Telegram</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2>Get In Touch</h2>
+                <p>Let's discuss your project</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <h3>📍 Service Area</h3>
+                        <p>Kuala Lumpur & Selangor, Malaysia</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>🕐 Business Hours</h3>
+                        <p>10:00 AM - 7:00 PM</p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>📱 WhatsApp</h3>
+                        <p><a href="https://wa.me/601121815521">+60 11-2181 5521</a></p>
+                    </div>
+                    <div class="contact-item">
+                        <h3>✈️ Telegram</h3>
+                        <p><a href="https://t.me/MydesignassistantAli_bot">@MydesignassistantAli_bot</a></p>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form action="https://wa.me/601121815521" method="get" target="_blank">
+                        <input type="text" name="text" placeholder="Your Name" required>
+                        <input type="email" name="text" placeholder="Your Email" required>
+                        <textarea name="text" placeholder="Tell us about your project..." rows="4" required></textarea>
+                        <button type="submit" class="btn-primary">Send via WhatsApp</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2026 Interior Design Company. All rights reserved.</p>
+                <p>Serving Kuala Lumpur & Selangor</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
